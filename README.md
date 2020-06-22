@@ -10,7 +10,7 @@
 
 ##### Run
 ```sh 
-$ java -jar Raspberry-Pi-Climate-Control.jar (Verbose Logging (True/False)) (Web Server Port (8080))
+$ java -jar Raspberry-Pi-Climate-Control.jar (Verbose Logging (True/False)) (Web Server Port (8443))
 
 ```
 
